@@ -1,4 +1,6 @@
-# News App
+# News App With Real Time Data
+
+![logo](https://github.com/user-attachments/assets/6c6f2ed7-fa87-4be2-9a9a-d6f6e96d477b)
 
 This News App is a Flutter-based application that fetches and displays the latest news articles using an API. The app supports various features such as smooth animations, text-to-speech capabilities, and custom UI components, making it a comprehensive and user-friendly news reader.
 
